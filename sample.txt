@@ -7,5 +7,4 @@ hello
 how are u
 doing
 
-today is 
-sunday
+
