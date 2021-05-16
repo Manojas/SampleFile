@@ -7,5 +7,3 @@ AS
 From 
 bangalore
 
-today is 
-monday
