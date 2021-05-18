@@ -3,4 +3,8 @@ welcome to
 mindtree
 
 today is 
+<<<<<<< HEAD
 wednesday
+=======
+tuesday
+>>>>>>> user1

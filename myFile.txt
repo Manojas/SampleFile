@@ -1,9 +1,16 @@
 i  am a 
 basket ball player 
  
-manoj
-AS
+hai 
+hello 
 
+how are u
+doing
+
+
+<<<<<<< HEAD:myFile.txt
 From 
 bangalore
 
+=======
+>>>>>>> user1:sample.txt
